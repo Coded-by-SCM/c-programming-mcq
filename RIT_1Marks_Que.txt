@@ -1,0 +1,145 @@
+//QZ1.1) 
+------------ is not a valid keyword in C language. 
+
+Options 
+A. return 
+B. break 
+C. extern 
+D. function 
+
+Correct Answer : D
+
+Explanation :
+"function" is not a keyword. 
+
+-----------------------------------------------------------------------
+//QZ1.2) 
+---------- is not a built-in data type in C language.
+Options 
+A. int 
+B. double 
+C. pointer
+D. boolean 
+
+Correct Answer : D 
+
+Explanation :
+"boolean" is not valid data type of C language. 
+-----------------------------------------------------------------------
+
+//QZ1.3) 
+Which statement is correct?
+Options 
+A. Any value that is not 1, represents FALSE. 
+B. 0 value represents a FALSE condition
+C. Non zero value represent a FALSE condition
+D. Value 1 represent a FALSE condition
+
+Correct Answer : B 
+
+Explanation :
+0 value represents a FALSE condition
+-----------------------------------------------------------------------
+
+//QZ1.4) 
+
+Which is not a valid variable declaration?
+Options 
+A. int  _abc3;
+B. int  3abc;
+C. int  _Abc3;
+D. int  A2bc;
+
+Correct Answer : B
+
+Explanation : Variable name cannot be started with a number. 
+
+-----------------------------------------------------------------------
+
+//QZ1.5) 
+
+Which is a valid C expression: 
+Options 
+A. int myvar=10,000;
+B. int my_var=10000;
+C. int $myvar=10000;
+D. int my var=10000;
+
+Correct Answer : B 
+
+Explanation :
+We can't use comma in "10,000". Comma is an operator in C. The "my var" variable name is incorrect. Variable name can't be started with '$'. 
+-----------------------------------------------------------------------
+
+//QZ1.6) 
+String constants need to be enclosed in -------. 
+Options 
+A. Double quotes 
+B. Single quotes 
+C. Either double or single quotes 
+D. None of above. 
+
+Correct Answer : A
+
+Explanation :
+String constants need to be enclosed in double quotes. 
+-----------------------------------------------------------------------
+
+//QZ1.7) 
+
+C program execution starts from --------. 
+Options 
+A. Header files 
+B. Preprocessor directives 
+C. main() function 
+D. Function which is defined at beginning of the program. 
+
+Correct Answer : C
+
+Explanation :
+C program execution starts from main() function. 
+-----------------------------------------------------------------------
+
+//QZ1.8) 
+Which of following is invalid in C. 
+Options 
+A. ""
+B. ''
+C. 'a'
+D. 'hello'
+
+Correct Answer : D
+
+Explanation :
+"hello" is string, it should be in double quotes. 
+-----------------------------------------------------------------------
+
+//QZ1.9) 
+
+Do-while loop executes loop code ----- times. 
+Options 
+A. At max 1 
+B. Zero 
+C. At least 1
+D. Few 
+
+Correct Answer : C 
+
+Explanation :
+The code executes minimum 1 times. 
+-----------------------------------------------------------------------
+
+//QZ1.10) 
+
+How many values at max can be returned by a function? 
+Options 
+A. One 
+B. Any number of values 
+C. 255 
+D. Compiler dependent 
+
+Correct Answer : A 
+
+Explanation :
+Function can return max 1 value. 
+-----------------------------------------------------------------------

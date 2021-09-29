@@ -1,0 +1,162 @@
+//QZ1.11) 
+What is meaning of following declaration?
+const int *ptr;
+Options 
+A.'ptr' is pointer to constant integer. 
+B. 'ptr' is constant pointer. 
+C. Bother pointer and integer are constant. 
+D. None of above. 
+
+Correct Answer : A 
+
+Explanation :
+'ptr' is pointer to constant integer. 
+-----------------------------------------------------------------------
+
+//QZ1.12) 
+What is meaning of following declaration?
+int * const ptr;
+Options 
+A. Pointer 'ptr' is pointing to constant integer. 
+B. Pointer and integer both are constant. 
+C. ‘ptr’ declares a constant pointer to an integer
+D.  None of above. 
+
+Correct Answer : C 
+
+Explanation :
+‘ptr’ declares a constant pointer to an integer
+-----------------------------------------------------------------------
+
+//QZ1.13) 
+What is meaning of following declaration?
+int *arrp[10];
+Options 
+A. 'arrp' is Pointer to array of size 10. 
+B. 'arrp' is Pointer to integers. 
+C. None of given options. 
+D. 'arrp' is array of integer pointers; array size is 10. 
+
+Correct Answer : D
+
+Explanation :
+Array of integer pointers; array size is 10. 
+-----------------------------------------------------------------------
+
+//QZ1.14) 
+What is meaning of following declaration?
+int (*parr)[10];
+Options 
+A. 'parr' is pointer to array. 
+B. Pointer ‘parr’ points to an integer array having 15 size
+C. 'parr' is array of pointers. 
+D. None of above. 
+
+Correct Answer : B 
+
+Explanation :
+Pointer ‘parr’ points to an integer array having 15 size
+-----------------------------------------------------------------------
+
+//QZ1.15) 
+What is meaning of following declaration?
+int (*ptrarr)[5][7]
+Options 
+A. 'ptrarr' is array of pointers. 
+B. 'ptrarr' is pointer to array. 
+C. None of given options. 
+D. Pointer ‘ptrarr’ points to a 2-Dimensional integer array having size 5 rows and 7 columns. 
+
+Correct Answer : D 
+
+Explanation :
+Pointer ‘ptrarr’ points to a 2-Dimensional integer array having size 5 rows and 7 columns. 
+-----------------------------------------------------------------------
+
+//QZ1.16) 
+What is meaning of following declaration?
+int* fn();
+Options 
+A. 'fn' is pointer to integer. 
+B. 'fn' is function pointer. 
+C. Function 'fn' returns an integer pointer. 
+D. None of above
+
+Correct Answer :  C
+
+Explanation :
+Function 'fn' returns an integer pointer.
+-----------------------------------------------------------------------
+
+//QZ1.17) 
+What is meaning of following declaration?
+void *fn();
+Options 
+A. Function 'fn' returns a void pointer. 
+B. 'fn' is a void pointer. 
+C. 'fn' is function pointer. 
+D. None of above. 
+
+Correct Answer : A 
+
+Explanation :
+Function 'fn' returns a void pointer. 
+-----------------------------------------------------------------------
+
+//QZ1.18) 
+What is meaning of following declaration?
+int (*ptrfn)();
+Options 
+A. 'ptrfn' is pointer to integer
+B. 'ptrfn' is pointer to function. It is an integer pointer. 
+C. None of given options
+D. 'ptrfn' is a pointer to a function. The function does not accept any argument and returns an integer value.
+
+Correct Answer : D 
+
+Explanation :
+Here 'ptrfn' is a pointer to a function. The function does not accept any argument and returns an integer value.
+-----------------------------------------------------------------------
+
+//QZ1.19) 
+What is meaning of following declaration?
+int (*f)(int (*a)[3]);
+Options 
+A. 'f' is a pointer to a function. The function accept aa pointer to array of 3 integers as argument and returns an integer value.
+B. 'f' is an integer pointer. 
+C. 'f' is pointer to function. Function returns an array. 
+D. None of above
+
+Correct Answer : A 
+
+Explanation :
+Here 'f' is a pointer to a function. The function accept aa pointer to array of 3 integers as argument and returns an integer value.
+-----------------------------------------------------------------------
+
+//QZ1.20) What is meaning of following declaration?
+int *ptr=NULL; 
+Options 
+A. Incorrect syntax. 
+B. 'ptr' is void pointer.
+C. 'ptr' is a NULL pointer; it is not pointing anywhere. 
+D. None of above
+
+Correct Answer : C 
+
+Explanation :
+'ptr' is a NULL pointer. 
+-----------------------------------------------------------------------
+
+Q.1.21) 
+What is meaning of following declaration?
+int *ptr=0; 
+Options 
+A. Incorrect syntax.
+B. 'ptr' is a void pointer
+C. None of given options. 
+D. 'ptr' is a NULL pointer; it is not pointing anywhere. 
+
+Correct Answer : D 
+
+Explanation :
+'ptr' is a NULL pointer. 
